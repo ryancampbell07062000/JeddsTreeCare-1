@@ -11,7 +11,7 @@
 
 /* =============================================
 	Base layout styles used by mobile devices
-	up to 480px and cascaded to larger devices 
+	up to 480px and cascaded to larger devices
 	unless superceded by other styles.
    =============================================
 */
@@ -37,8 +37,8 @@ body > header nav {
 	text-align: right;
 	width: 100%;
 	height: 28px;
-	background-color: #b5cc88;
-	border-bottom: 2px solid #0084bf;
+	background-color: #536334;
+	border-bottom: 2px solid #536334;
 }
 
 body > header > nav ul li {
@@ -91,7 +91,7 @@ article address {
 	padding-bottom: 20px;
 	font-size: 0.9em;
 }
-	
+
 aside {
 	display: none;
 }
@@ -123,14 +123,14 @@ footer {
 	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	text-align: center;
 	font-size: 0.7em;
-	border-top: 2px solid #73DF6B;
+	border-top: 2px solid #536334;
 	padding-top: 10px;
 	padding-bottom: 20px;
 }
 
 /* =============================================
 	Tablet layout styles used by devices
-	601px to 768px and cascaded to larger 
+	601px to 768px and cascaded to larger
 	devices.
    =============================================
 */
@@ -220,7 +220,7 @@ footer {
 @media only screen and (min-width: 769px) {
 
 html {
-	background-color: #92ad57;
+	background-color: #536334;
 }
 
 body {
