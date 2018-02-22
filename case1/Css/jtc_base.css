@@ -46,13 +46,13 @@ body {
 */
 
 a {
-	color: #00e;
+	color: red;
 }
 a:visited {
-	color: #551a8b;
+	color: red;
 }
 a:hover {
-	color: #06e;
+	color: red;
 }
 a:focus {
 	outline: thin dotted;
